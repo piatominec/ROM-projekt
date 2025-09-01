@@ -6,11 +6,10 @@ Pri projektu bom uporabila računalniški program Mathematica.
 ## Načrt projekta
 1. Pridobila bom podatke o preteklosti za Evropo in pa za Slovenijo.
 2. Analizirala te podatke, jih predstavila na grafu in obrazložila.
-3. Poskušal ugotoviti kaj se lahko zgodi v prihodnosti, če bomo nadaljevali na isti način kot sedaj.
 
 ### Posnetek predstavitve
-
+Je oddan kot datoteka
 ### Povezava do aplikacije
-
+https://www.wolframcloud.com/obj/pt42710/RodnostAplikacija
 
 Pripravila: Pia Tominec
