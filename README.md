@@ -8,7 +8,8 @@ Pri projektu bom uporabila računalniški program Mathematica.
 2. Analizirala te podatke, jih predstavila na grafu in obrazložila.
 
 ### Posnetek predstavitve
-Je oddan kot datoteka
+https://youtu.be/6xU_52T4XrA
+
 ### Povezava do aplikacije
 https://www.wolframcloud.com/obj/pt42710/RodnostAplikacija
 
